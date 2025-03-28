@@ -1,7 +1,9 @@
-# ✍️ Technical Writing & Content Development Portfolio
+## 📝 Technical Writing & Content Development Portfolio
 
 This portfolio includes:
+
 - 📘 Technical documentation (user guides, API docs, FAQs)
+- 🧠 Educational content — **lectures, exercises, and exams**
 - 💬 Content development for onboarding, support, or training
 - 🎯 Clear, helpful, user-centered writing — built for real humans
 
