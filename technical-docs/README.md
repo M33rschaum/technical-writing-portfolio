@@ -11,7 +11,7 @@ Each document is written in Markdown, with a focus on clarity, structure, and ea
 
 A beginner-friendly guide covering account creation, task creation, filtering, and reminders.
 
-📎 [API Documentation: Idea Center](./technical-docs/Sample-API-Doc.md)
+📎 Coming soon
 
 
 ---
@@ -20,7 +20,7 @@ A beginner-friendly guide covering account creation, task creation, filtering, a
 
 An API reference for a fictional app including authentication, endpoints, request/response formats, and error handling.
 
-📎 Coming soon
+[📎 API Documentation: Idea Center](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/Sample-API-Doc.md)
 
 ---
 
