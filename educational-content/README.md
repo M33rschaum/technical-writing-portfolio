@@ -18,5 +18,5 @@ A guided hands-on activity introducing students to performance testing with **k6
 Includes setup instructions, scripting examples, and test execution in both CLI and VS Code.  
 Designed to help QA learners understand load testing concepts through real practice.
 
-📎 [Download the PDF](./Exercise-K6.pdf)
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/)Exercise-K6.pdf)
 
