@@ -20,7 +20,7 @@ http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:84/api
 
 ## 🔐 Authentication
 
-To access the **Idea** endpoints, you must first authenticate and retrieve a bearer token.
+To access the **IdeaCenter** endpoints, you must first authenticate and retrieve a bearer token.
 
 ### `POST /api/User/Authentication`
 
@@ -176,4 +176,4 @@ Delete an existing idea.
 
 ---
 
-📄 *This documentation is part of a technical writing portfolio project and was manually structured based on Swagger UI and testing results from the SoftUni Idea Center API.*
+📄 *This documentation is part of a technical writing portfolio project and was manually structured based on Swagger UI and testing results from the Idea Center API.*
