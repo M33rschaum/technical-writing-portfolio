@@ -11,7 +11,7 @@ Each document is written in Markdown, with a focus on clarity, structure, and ea
 
 A beginner-friendly guide covering account creation, task creation, filtering, and reminders.
 
-📎 [API Documentation: Idea Center](./technical-docs/Sample-API-Docs.md)
+📎 [API Documentation: Idea Center](./technical-docs/Sample-API-Doc.md)
 
 
 ---
