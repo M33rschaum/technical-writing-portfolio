@@ -27,9 +27,9 @@ Step-by-step instructions with prerequisites and troubleshooting.
 A sample FAQ with simple, user-facing answers.  
 👉 [See FAQ](./faq-example/faq.md)
 
-### 📚 Content Development Example
-An onboarding module designed to help new users feel confident.  
-👉 [Check it out](./content-development-example/onboarding-module.md)
+### 📚 Educational Content
+Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and software testing courses**.    
+👉 [Check it out](./educational-content/README.md)
 
 ---
 
