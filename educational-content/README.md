@@ -33,3 +33,16 @@ A comprehensive, step-by-step installation and configuration guide for **Appium 
 Created for **SoftUni** learners as part of a mobile automation lectures.
 
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Appium-Installations.pdf)
+
+---
+
+## 🧭 Trello – Beginner Tutorial
+
+A hands-on tutorial guiding students through the full Trello experience:
+- Creating boards, lists, and cards
+- Using the Web, Desktop, and Mobile apps
+- Applying Kanban in QA workflows
+
+Originally developed for **SoftUni** learners.
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Trello.pdf)
