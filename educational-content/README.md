@@ -46,3 +46,16 @@ A hands-on tutorial guiding students through the full Trello experience:
 Originally developed for **SoftUni** learners.
 
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Trello.pdf)
+
+---
+
+## 🧪 API Testing – Final Exam Assignment (Postman & RestSharp)
+
+A comprehensive exam assignment developed for **SoftUni**, covering:
+
+- Postman API testing and collection scripting
+- Automation using Newman with HTML reports
+- API testing with C# and RestSharp in .NET
+- Test assertions, error handling, and edge cases
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/API-Exam-Postman-RestSharp.pdf)
