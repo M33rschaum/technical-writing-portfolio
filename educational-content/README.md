@@ -8,7 +8,8 @@ This section contains lecture materials, exercises, and assessments I’ve devel
 A complete lecture introducing the concept of mutation testing, including history, techniques, and tools like Stryker. 
 Suitable for QA engineers and technical learners.
 
-📎 [Download the PDF]([./Mutation-Testing.pdf](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Mutation-Testing.pdf))
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Mutation-Testing.pdf)
+
 
 ---
 
