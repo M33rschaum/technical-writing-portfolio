@@ -10,7 +10,6 @@ Suitable for QA engineers and technical learners.
 
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Mutation-Testing.pdf)
 
-
 ---
 
 ## 🧪 k6 Performance Testing – Practical Exercise
@@ -20,4 +19,17 @@ Designed to help QA learners understand load testing concepts through real pract
 
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Exercise-K6.pdf)
 
+---
 
+## 📱 Appium Installation – Complete Setup Guide
+
+A comprehensive, step-by-step installation and configuration guide for **Appium 2.0**, including:
+- Node.js setup
+- Android SDK and AVD configuration
+- Environment variables
+- Java JDK setup
+- Appium Inspector usage
+
+Created for **SoftUni** learners as part of a mobile automation lectures.
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Appium-Installations.pdf)
