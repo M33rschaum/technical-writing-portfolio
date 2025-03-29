@@ -1,7 +1,7 @@
  🧑‍💻 Technical Documentation
 
-This section showcases user guides, API references, and technical setup instructions I’ve written or prototyped.  
-Each document is written in Markdown, with a focus on clarity, structure, and ease of use.
+This section showcases user guides, API references, and setup instructions I’ve written or prototyped—available in both Markdown and PDF formats.
+Each document emphasizes clarity, structure, and ease of use, making technical content accessible to diverse audiences.
 
 ---
 
