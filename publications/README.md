@@ -14,7 +14,7 @@ The work includes both implementation and evaluation of AI and secure systems.
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This paper presents a web application prototype built on a permissioned blockchain platform for secure and traceable data exchange. The application enables users to upload, verify, and retrieve documents with blockchain validation, ensuring transparency and integrity across distributed nodes.
+The paper presents a web application for smart crop production data exchange, integrating the Antelope blockchain and the Interplanetary File System (IPFS). Using smart contracts, the platform enables secure data storage, file sharing, and token transfers, ensuring transaction transparency and security. Designed with open-source solutions, it allows authentication via blockchain accounts or standard wallets like Anchor. Future development focuses on performance, scalability, and security testing to evolve the platform into a fully decentralized application (dApp).
 </details>
 
 ---
@@ -26,7 +26,7 @@ This paper presents a web application prototype built on a permissioned blockcha
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This paper explores the classification of blockchain wallets and introduces a modular implementation approach. It focuses on the functional and architectural differences between custodial and non-custodial solutions, highlighting security and usability concerns across platforms.
+The paper explores the key components and classification of blockchain wallets, proposing an extended working definition to support custom wallet solutions. It presents the development of a non-custodial, software hot wallet for Antelope/IPFS-based data exchange, supporting ERC-20 and ERC-721 tokens/NFTs with biometric authentication. The study outlines the wallet’s functionalities for account management, token transfers, and file exchange authentication, extending the platform’s infrastructure. Future development aims to evolve the solution into a web-based dApp wallet.
 </details>
 
 ---
@@ -38,7 +38,7 @@ This paper explores the classification of blockchain wallets and introduces a mo
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This paper introduces a web application for Retrieval-Augmented Generation (RAG), integrating vector-based document retrieval with large language models. It describes the system architecture, retrieval logic, and evaluation methods, with experiments comparing response accuracy under varying threshold values.
+The paper explores the implementation of Retrieval-Augmented Generation (RAG) technology with open-source large language models (LLMs). A dedicated web-based application, PaSSER, was developed, integrating Mistral:7b, Llama2:7b, and Orca2:7b models. The study evaluates LLM performance using METEOR, ROUGE, BLEU, perplexity, cosine similarity, Pearson correlation, and F1 score, particularly within the smart agriculture domain. Additionally, it examines hardware considerations, revealing that GPUs are essential for fast text generation. The paper also discusses blockchain integration for storing and managing assessment results, with future development focused on fine-tuning LLMs and further blockchain integration.
 </details>
 
 ---
@@ -50,7 +50,7 @@ This paper introduces a web application for Retrieval-Augmented Generation (RAG)
 <details>
 <summary><strong>Abstract</strong></summary>
 
-This research analyzes the impact of similarity thresholds on the accuracy of RAG systems. It proposes a threshold evaluation framework, supported by practical tests with different LLMs, highlighting how fine-tuning retrieval filters affects the quality of generated answers.
+The study evaluates the performance of open-source Large Language Models (LLMs)—Mistral:7b, Llama2:7b, and Orca2:7b—in the context of Retrieval-Augmented Generation (RAG). The research identifies optimal similarity score thresholds for LLMs using NLP metrics and a custom-developed dataset in agriculture. Tests were conducted using the PaSSER web-based application, an extension of the Smart Crop Production Data Exchange (SCPDx) platform. The findings show that different LLMs perform best at varying similarity thresholds, with Mistral and Llama excelling at 0.55, and Orca achieving peak performance at 0.65. Future development aims to integrate larger LLMs (40B+), explore fine-tuning strategies, and further enhance PaSSER’s infrastructure.
 </details>
 
 ---
@@ -64,6 +64,6 @@ ISSN (Print): 2738-7356 | ISSN (Online): 2738-7364
 <details>
 <summary><strong>Abstract (preview)</strong></summary>
 
-The upcoming paper outlines recent advancements in Retrieval-Augmented Generation (RAG), focusing on architecture, training strategies, and open-source challenges. It discusses potential applications in education, healthcare, and secure document systems, along with future directions for modular integration and blockchain-backed verification.
+This paper reviews the evolution of Retrieval-Augmented Generation (RAG) systems, focusing on recent advancements that address the limitations of traditional language models. It explores modular RAG architectures, data-centric training strategies, and hybrid retrieval techniques that combine structured and unstructured knowledge. The study examines enhancements in factual grounding, domain specialization, and multimodal reasoning, while identifying key challenges such as retrieval precision, evidence alignment, and self-refinement. It also outlines emerging evaluation frameworks, including RAGAS, RGB, and PaSSER. The paper concludes with recommendations for future research, emphasizing the need for unified, trustworthy, and adaptable RAG systems.
 </details>
 
