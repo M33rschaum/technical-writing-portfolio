@@ -29,7 +29,7 @@ Each file illustrates my experience with industry-standard tools that support do
 
 ---
 
-# 🧰 Tools I Work With
+## 🧰 Tools I Work With
 
 For all samples in this portfolio, I used tools like Markdown, Git, VS and VS Code — keeping things clean, simple, and real.
 
