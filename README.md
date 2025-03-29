@@ -24,7 +24,7 @@ User guides, API references, technical setup instructions, etc.
 Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.           
 👉 [Read more](./publications/README.md)
 
-🛠️ **Tools Demo**  
+### 🛠️ Tools Demo 
 Hands-on examples showing how I use technical writing and QA tools in projects.  
 Each file illustrates my experience with industry-standard tools that support documentation, collaboration, and testing.  
 👉 [See here](./tools-demo/README.md)
