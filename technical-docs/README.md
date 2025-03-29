@@ -24,8 +24,9 @@ An API reference for a fictional app including authentication, endpoints, reques
 
 ---
 
-### 🖥 Installation Guide – Tool Setup for Windows
+### 🖥 Installation Guide – Git Setup for Windows
 
 A step-by-step guide for installing a developer toolchain on Windows, including dependencies and environment setup.
 
-📎 Coming soon
+[📎 API Documentation: Idea Center](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/GitForWindows_InstalationGuide.pdf)
+
