@@ -13,14 +13,13 @@ A beginner-friendly guide covering account creation, task creation, filtering, a
 
 📎 Coming soon
 
-
 ---
 
 ### 📚 API Documentation – Sample REST API
 
 An API reference for a fictional app including authentication, endpoints, request/response formats, and error handling.
 
-[📎 API Documentation: Idea Center](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/Sample-API-Doc.md)
+📎 [API Documentation: Idea Center](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/Sample-API-Doc.md)
 
 ---
 
