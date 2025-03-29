@@ -27,12 +27,6 @@ An example of visual content edited with Paint.NET - annotated screenshot.
 **Demo:** [`trello-tests-results.json`](./trello-tests-results.json)  
 Sample test results for Trello API endpoints using Postman’s built-in test and collection runner.
 
-
-## ✅ TestRail
-**Tool:** TestRail  
-**Demo:** [`testrail-sample-tests.md`](./testrail-sample-tests.md)  
-How I structure, organize, and manage test cases within a QA project.
-
 ---
 
 Need access to any of the files? Feel free to reach out!
