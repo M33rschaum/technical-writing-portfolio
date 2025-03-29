@@ -136,4 +136,5 @@ Visualizes the commit history across branches.
 ---
 📚 Resources
 Atlassian Git Branching Guide
+
 Git Book – Branching
