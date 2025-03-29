@@ -134,7 +134,7 @@ git log --oneline --graph --all
 Visualizes the commit history across branches.
 
 ---
-📚 Resources
+## 📚 Resources
 
 Atlassian Git Branching Guide
 
