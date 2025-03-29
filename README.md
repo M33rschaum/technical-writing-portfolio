@@ -5,7 +5,8 @@ This portfolio includes:
 🧠 Educational content — lectures, exercises, tutorials, and exams  
 📘 Technical documentation — user guides, API references, and installation instructions  
 📚 Peer-reviewed academic publications in blockchain and Retrieval-Augmented Generation (RAG)
-🧰 Hands-on examples using tools like Git, Postman, Confluence, Paint.NET, and Markdown. <br>
+🗂 Peer-reviewed academic publications in blockchain and Retrieval-Augmented Generation (RAG)  
+🧰 Hands-on examples using tools like Git, Postman, Confluence, Paint.NET, and Markdown.  
 🎯 Clear, user-focused writing with a strong emphasis on clarity and usability  
 
 ---
