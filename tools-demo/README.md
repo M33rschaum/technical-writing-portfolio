@@ -9,7 +9,7 @@ A concise guide demonstrating formatting, headings, lists, code blocks, tables, 
 
 ## 🗃 Git & GitHub
 **Tool:** Git  
-**Demo:** [`git-versioning-sample.md`](./git-versioning-sample.md)  
+**Demo:** [`git-versioning-sample.md`](./git-branching-guide.md.md)  
 How I use Git for version control of documentation, including commit examples and branch usage.
 
 ## 🌐 Confluence
