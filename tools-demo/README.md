@@ -14,7 +14,7 @@ How I use Git for version control of documentation, including commit examples an
 
 ## 🌐 Confluence
 **Tool:** Atlassian Confluence  
-**Demo:** `confluence-page-structure.png`  
+**Demo:** [`confluence-page-structure.png`](./confluence-page-structure.png)  
 Screenshot showing my approach to page hierarchy, templates, and collaboration workflow.
 
 ## ✍️ Paint.NET
