@@ -1,4 +1,4 @@
- 🧑‍💻 Technical Documentation
+# 🧑‍💻 Technical Documentation
 
 This section showcases user guides, API references, and setup instructions I’ve written or prototyped—available in both Markdown and PDF formats.
 Each document emphasizes clarity, structure, and ease of use, making technical content accessible to diverse audiences.
