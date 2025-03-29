@@ -2,10 +2,11 @@
 
 This portfolio includes:
 
-- 📘 Technical documentation (user guides, API docs, FAQs)
-- 🧠 Educational content — **lectures, exercises, and exams**
-- 💬 Content development for onboarding, support, or training
-- 🎯 Clear, helpful, user-centered writing — built for real humans
+📘 Technical documentation — user guides, API references, and installation instructions  
+🧠 Educational content — lectures, exercises, tutorials, and exams  
+💬 Content development for onboarding, support, and training  
+📚 Peer-reviewed academic publications in blockchain and Retrieval-Augmented Generation (RAG)
+🎯 Clear, user-focused writing with a strong emphasis on clarity and usability  
 
 ---
 
