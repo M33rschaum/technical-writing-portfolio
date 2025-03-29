@@ -2,8 +2,8 @@
 
 This portfolio includes:
 
-📘 Technical documentation — user guides, API references, and installation instructions  
 🧠 Educational content — lectures, exercises, tutorials, and exams  
+📘 Technical documentation — user guides, API references, and installation instructions  
 💬 Content development for onboarding, support, and training  
 📚 Peer-reviewed academic publications in blockchain and Retrieval-Augmented Generation (RAG)
 🎯 Clear, user-focused writing with a strong emphasis on clarity and usability  
@@ -16,12 +16,12 @@ This portfolio includes:
 Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and software testing courses**.    
 👉 [Check it out](./educational-content/README.md)
 
-### 📘 Technical Documentation
-User guides, API references, technical setup instructions, etc.
-👉 [Check it out](./technical-docs/README.md)
+### 📘 Technical Documentation  
+User guides, API references, technical setup instructions, etc.  
+👉 [Check it out](./technical-documentation/README.md)
 
-### 📚 Publications
-Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.
+### 📚 Publications  
+Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.  
 👉 [Read more](./publications/README.md)
 
 ---
