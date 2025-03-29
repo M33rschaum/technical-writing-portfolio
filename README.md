@@ -11,31 +11,23 @@ This portfolio includes:
 
 ## 📂 Samples
 
-### 📘 API Documentation
-A sample REST API reference with a "Getting Started" guide and endpoint descriptions.  
-👉 [View sample](./api-doc-example/sample-api.md)
-
-### 🧭 User Guide
-A beginner-friendly Getting Started guide for a productivity app.  
-👉 [Read guide](./user-guide-example/getting-started-guide.md)
-
-### 🖥 Software Installation Guide
-Step-by-step instructions with prerequisites and troubleshooting.  
-👉 [View install guide](./software-installation-guide/install-guide.md)
-
-### ❓ FAQ Document
-A sample FAQ with simple, user-facing answers.  
-👉 [See FAQ](./faq-example/faq.md)
-
 ### 📚 Educational Content
 Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and software testing courses**.    
 👉 [Check it out](./educational-content/README.md)
+
+### 📘 Technical Documentation
+User guides, API references, technical setup instructions, etc.
+👉 [Check it out](./technical-docs/README.md)
+
+### 📚 Publications
+Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.
+👉 [Read more](./publications/README.md)
 
 ---
 
 # 🧰 Tools I Work With
 
-For all samples in this portfolio, I used tools like Markdown, Git, and VS Code — keeping things clean, simple, and real.
+For all samples in this portfolio, I used tools like Markdown, Git, VS and VS Code — keeping things clean, simple, and real.
 
 ---
 
