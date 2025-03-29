@@ -29,4 +29,3 @@ Sample test results for Trello API endpoints using Postman’s built-in test and
 
 ---
 
-Need access to any of the files? Feel free to reach out!
