@@ -27,6 +27,7 @@ Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Ge
 ### 🛠 Tool Demos
 Hands-on examples showing how I use technical writing and QA tools in projects.  
 Each file illustrates my experience with industry-standard tools that support documentation, collaboration, and testing.
+👉 [Read more](./tools-demo/README.md)
 
 ---
 
@@ -37,3 +38,4 @@ For all samples in this portfolio, I used tools like Markdown, Git, VS and VS Co
 ---
 
 More content coming soon! ☕
+
