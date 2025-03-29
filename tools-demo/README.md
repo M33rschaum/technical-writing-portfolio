@@ -10,7 +10,7 @@ A concise guide demonstrating formatting, headings, lists, code blocks, tables, 
 ## 🗃 Git & GitHub
 **Tool:** Git  
 **Demo:** [`git-branching-guide.md`](./Git-Branching-Guide.md)  
-How I use Git for version control of documentation, including commit examples and branch usage.
+How I use Git - branch usage.
 
 ## 🌐 Confluence
 **Tool:** Atlassian Confluence  
@@ -19,8 +19,8 @@ Screenshot showing my approach to page hierarchy, templates, and collaboration w
 
 ## ✍️ Paint.NET
 **Tool:** Paint.NET  
-**Demo:** `paintnet-image-sample.png`  
-An example of visual content edited with Paint.NET, such as annotated screenshots or custom diagrams.
+**Demo:** [`paintnet-image-sample.png`](./paintNet-ImageSample.png)  
+An example of visual content edited with Paint.NET - annotated screenshot.
 
 ## 📬 Postman
 **Tool:** Postman  
