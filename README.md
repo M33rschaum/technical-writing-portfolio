@@ -21,7 +21,7 @@ User guides, API references, technical setup instructions, etc.
 👉 [Dive into the docs](./technical-docs/README.md)
 
 ### 📚 Publications  
-Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.  
+Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.           
 👉 [Read more](./publications/README.md)
 
 ### 🛠 Tool Demos
