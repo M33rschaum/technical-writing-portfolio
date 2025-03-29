@@ -24,7 +24,7 @@ An example of visual content edited with Paint.NET - annotated screenshot.
 
 ### 🧪 Postman API Testing
 **Tool:** Postman  
-**Demo:** [`trello-tests-results.json`](./postman-results/trello-tests-results.json)  
+**Demo:** [`trello-tests-results.json`](./trello-tests-results.json)  
 Sample test results for Trello API endpoints using Postman’s built-in test and collection runner.
 
 
