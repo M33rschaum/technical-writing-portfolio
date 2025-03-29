@@ -132,3 +132,8 @@ Force-pushes rebased changes to the remote.
 git log --oneline --graph --all
 ```
 Visualizes the commit history across branches.
+
+---
+📚 Resources
+Atlassian Git Branching Guide
+Git Book – Branching
