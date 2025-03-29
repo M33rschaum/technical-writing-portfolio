@@ -10,8 +10,6 @@ This portfolio includes:
 
 ---
 
-## 📂 Samples
-
 ### 📚 Educational Content
 Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and software testing courses**.    
 👉 [Check it out](./educational-content/README.md)
