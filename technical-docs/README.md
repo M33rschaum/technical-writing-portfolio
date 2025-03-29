@@ -7,11 +7,11 @@ Each document emphasizes clarity, structure, and ease of use, making technical c
 
 ## 📘 Samples
 
-### 🧭 User Guide – Task Management App
+### 🧭 User Guide – Getting Started with Notepad (Windows)
 
-A beginner-friendly guide covering account creation, task creation, filtering, and reminders.
+The basics of using Notepad, the built-in text editor on Windows.
 
-📎 Coming soon
+📎 [User Guide: Notepad](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/Notepad_GetStarted.md)
 
 ---
 
