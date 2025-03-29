@@ -22,10 +22,11 @@ Screenshot showing my approach to page hierarchy, templates, and collaboration w
 **Demo:** [`paintnet-image-sample.png`](./paintNet-ImageSample.png)  
 An example of visual content edited with Paint.NET - annotated screenshot.
 
-## 📬 Postman
+### 🧪 Postman API Testing
 **Tool:** Postman  
-**Demo:** [`postman-api-test.pdf`](./postman-api-test.pdf)  
-Simple walkthrough showing how to test a REST API using Postman.
+**Demo:** [`trello-tests-results.json`](./postman-results/trello-tests-results.json)  
+Sample test results for Trello API endpoints using Postman’s built-in test and collection runner.
+
 
 ## ✅ TestRail
 **Tool:** TestRail  
