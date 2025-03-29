@@ -17,7 +17,7 @@ Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and softw
 
 ### 📘 Technical Documentation  
 User guides, API references, technical setup instructions, etc.  
-👉 [Check it out](./technical-docs/README.md)
+👉 [Dive into the docs](./technical-docs/README.md)
 
 ### 📚 Publications  
 Peer-reviewed articles exploring blockchain, wallets, and Retrieval-Augmented Generation (RAG) in AI systems.  
