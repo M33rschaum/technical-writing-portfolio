@@ -59,3 +59,13 @@ A comprehensive exam assignment developed for **SoftUni**, covering:
 - Test assertions, error handling, and edge cases
 
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/API-Exam-Postman-RestSharp.pdf)
+
+---
+
+📝 Manual Testing Workshop  
+A real-world QA workshop involving the Eventures web app. Includes structured test cases, functional requirements, and bug-reporting tasks.  
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Manual-Testing-Workshop.pdf)
+
+---
+
