@@ -36,7 +36,7 @@ Created for **SoftUni** learners as part of a mobile automation lectures.
 
 ---
 
-## 🧭 Trello – Beginner Tutorial
+## 🧭 Trello – Tutorial for Beginners 
 
 A hands-on tutorial guiding students through the full Trello experience:
 - Creating boards, lists, and cards
