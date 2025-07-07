@@ -55,9 +55,7 @@ The study evaluates the performance of open-source Large Language Models (LLMs)�
 
 ---
 
-## 📝 Upcoming
-
-### 🔜 Retrieval-Augmented Generation: Advancements and Challenges  
+### 🔗 Retrieval-Augmented Generation: Advancements and Challenges  
 *PROBLEMS OF ENGINEERING CYBERNETICS AND ROBOTICS • 2025 • Vol. 83, pp. 32-57*  
 ISSN (Print): 2738-7356 | ISSN (Online): 2738-7364
 [DOI: DOI: 10.7546/PECR.83.25.03](https://doi.org/10.7546/PECR.83.25.03)
@@ -67,4 +65,16 @@ ISSN (Print): 2738-7356 | ISSN (Online): 2738-7364
 
 This paper reviews the evolution of Retrieval-Augmented Generation (RAG) systems, focusing on recent advancements that address the limitations of traditional language models. It explores modular RAG architectures, data-centric training strategies, and hybrid retrieval techniques that combine structured and unstructured knowledge. The study examines enhancements in factual grounding, domain specialization, and multimodal reasoning, while identifying key challenges such as retrieval precision, evidence alignment, and self-refinement. It also outlines emerging evaluation frameworks, including RAGAS, RGB, and PaSSER. The paper concludes with recommendations for future research, emphasizing the need for unified, trustworthy, and adaptable RAG systems.
 </details>
+
+## 📝 Upcoming
+
+### 🔜 Model-Dependent Similarity Thresholds in Retrieval-Augmented Generation  
+*SPRINGER, Book Chapter 12*  
+
+
+<details>
+<summary><strong>Abstract (preview)</strong></summary>
+
+The study investigates the impact of similarity threshold tuning on Retrieval-Augmented Generation (RAG) system performance across four open-source language models. Mistral 7B, Llama 3.1 8B, Granite 3.2 8B, and DeepSeek 8B were evaluated using 369 question-answer pairs from the agricultural domain. Similarity thresholds from 0.50 to 0.95 were systematically tested to identify model-specific optimal configurations. An enhanced Composite Performance Score (CPS) was employed, integrating eleven evaluation metrics spanning lexical overlap (METEOR, ROUGE-2.f, ROUGE-L.f), semantic similarity (BERTScore.f1, B-RT.average), fluency and accuracy (F1 score, B-RT.fluency), and language modeling (Laplace Perplexity, Lidstone Perplexity) dimensions into a unified, weighted scoring system. The framework was extended with a Threshold-Aware Composite Performance Score (T-CPS) that penalizes output variability to identify stable, high-performing configurations. Results revealed distinct model sensitivity patterns. Mistral 7B achieved statistical significance at six thresholds with peak improvement of 4.58%. Granite 3.2 8B demonstrated consistent performance across seven consecutive thresholds. Llama 3.1 8B showed selective response at three high thresholds. DeepSeek 8B exhibited limited sensitivity with significance at only two thresholds. Model-specific threshold calibration yielded performance improvements ranging from 1.01% to 4.58% without requiring architectural modifications or additional computational resources. These findings demonstrate that model-specific threshold calibration represents a practical enhancement strategy that can deliver measurable performance improvements without requiring architectural modifications or additional computational resources.
+
 
