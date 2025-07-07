@@ -58,8 +58,9 @@ The study evaluates the performance of open-source Large Language Models (LLMs)�
 ## 📝 Upcoming
 
 ### 🔜 Retrieval-Augmented Generation: Advancements and Challenges  
-*To appear in: Problems of Engineering Cybernetics and Robotics*  
+*PROBLEMS OF ENGINEERING CYBERNETICS AND ROBOTICS • 2025 • Vol. 83, pp. 32-57*  
 ISSN (Print): 2738-7356 | ISSN (Online): 2738-7364
+[DOI: DOI: 10.7546/PECR.83.25.03](https://doi.org/10.7546/PECR.83.25.03)
 
 <details>
 <summary><strong>Abstract (preview)</strong></summary>
