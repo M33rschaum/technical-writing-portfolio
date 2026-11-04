@@ -13,7 +13,7 @@ Lectures, exercises, tutorials, and exams developed for **SoftUni's QA and softw
 👉 [Check it out](./educational-content/README.md)
 
 ## 📘 Technical Documentation
-User guides, API references, and technical setup instructions.
+API references and technical setup instructions.
 👉 [Dive into docs](./technical-docs/README.md)
 
 ## 🛠️ Tools Demo
