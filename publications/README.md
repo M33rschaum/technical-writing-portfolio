@@ -69,7 +69,8 @@ The growing reliance on Large Language Models (LLMs) in knowledge-intensive task
 ---
 
 ### 🔗 PaSSER: A Platform for Evaluating LLMs in RAG
-*IEEE, 2025*
+*2025 BdKCSE Conference*
+[DOI: 10.1109/BdKCSE67969.2025.11300500](https://doi.org/10.1109/BdKCSE67969.2025.11300500)
 
 <details>
 <summary><strong>Abstract</strong></summary>
