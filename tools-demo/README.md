@@ -17,11 +17,6 @@ How I use Git - branch usage.
 **Demo:** [`confluence-page-structure.png`](./confluence-page-structure.png)  
 Screenshot showing my approach to page hierarchy, templates, and collaboration workflow.
 
-## ✍️ Paint.NET
-**Tool:** Paint.NET  
-**Demo:** [`paintnet-image-sample.png`](./paintNet-ImageSample.png)  
-An example of visual content edited with Paint.NET - annotated screenshot.
-
 ### 🧪 Postman API Testing
 **Tool:** Postman  
 **Demo:** [`trello-tests-results.json`](./trello-tests-results.json)  
