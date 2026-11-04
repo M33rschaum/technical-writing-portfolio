@@ -1,19 +1,11 @@
 # 🧑‍💻 Technical Documentation
 
-This section showcases user guides, API references, and setup instructions I’ve written or prototyped—available in both Markdown and PDF formats.
+This section showcases API references and setup instructions I’ve written or prototyped—available in both Markdown and PDF formats.
 Each document emphasizes clarity, structure, and ease of use, making technical content accessible to diverse audiences.
 
 ---
 
 ## 📘 Samples
-
-### 🧭 User Guide – Getting Started with Notepad (Windows)
-
-The basics of using Notepad, the built-in text editor on Windows.
-
-📎 [User Guide: Notepad](https://github.com/M33rschaum/technical-writing-portfolio/blob/main/technical-docs/Notepad_GetStarted.md)
-
----
 
 ### 📚 API Documentation – Sample REST API
 
