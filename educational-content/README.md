@@ -69,3 +69,26 @@ A real-world QA workshop involving the Eventures web app. Includes structured te
 
 ---
 
+---
+
+## 🎭 Playwright Mobile Testing – Practical Exercise
+A hands-on exercise on mobile web testing with Playwright: device profiles, locators, TodoMVC tests, responsive breakpoints, and visual regression testing.
+Developed for SoftUni's QA Automation course.
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Playwright-Mobile-Testing-Exercise.pdf)
+
+## ⏱️ Selenium WebDriver – Waits Lab
+A guided lab comparing Thread.Sleep, implicit, explicit, and fluent waits in Selenium with C# and NUnit, including custom wait conditions and exception handling.
+Developed for SoftUni's QA Automation course.
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Selenium-Waits-Lab.pdf)
+
+## 🧱 Selenium WebDriver – Page Object Model Lab
+A step-by-step lab on structuring Selenium tests with the Page Object Model in C#: base page, page classes, and test classes.
+Developed for SoftUni's QA Automation course.
+
+📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Selenium-POM-Lab.pdf)
+
+---
+
+*Materials marked "Developed for SoftUni" are © SoftUni and shown here for portfolio purposes only, not for commercial use.*
