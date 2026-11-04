@@ -91,6 +91,18 @@ This paper evaluates multi-agent coordination strategies against single-agent re
 
 ---
 
+### 🔗 Auditing LLM-Based Coreference Rewriting for Narrative Retrieval
+*IEEE IS 2026 (13th International Conference on Intelligent Systems), Varna, Bulgaria*
+[DOI: 10.1109/IS71416.2026.11727292](https://doi.org/10.1109/IS71416.2026.11727292)
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+Retrieval-augmented generation systems index a transformed version of a passage while displaying the original text to the reader. One such transformation uses a large language model to replace pronouns with names. A name-bearing query can reach a passage that mentions a character only indirectly. The arrangement appears safe, because the displayed citation is exact. Yet the rewrite that determines which passage is found is never seen. This paper audits the hidden rewrite directly. One hundred rewrites of passages from Jane Eyre were examined, fifty from each of two independent pipelines built on Gemma 3 27B and Mistral 7B and reported as separate case studies. Two blinded evaluators rated the rewrites against a fixed seven-type defect codebook, with disagreements resolved by adjudication. Correctness was judged against the visible evidence, not the novel. Among the 36 randomly drawn rewrites per pipeline, 29 Gemma and 34 Mistral rewrites were defective, defect rates of 80.6% and 94.4%. All seven defect types occurred in both pipelines, and no defect was visible in the displayed passage. A pre-specified surface screen missed many confirmed defects, with far lower recall in the Mistral case study, where a post-hoc check traced the loss to the sign convention of an inherited indicator. An exploratory retrieval diagnostic detected no coreference-specific rank effect, and rank improvements occurred among both correct and incorrect entity resolutions. A verbatim citation therefore certifies the display, not the retrieval key. The fixed codebook and blinded adjudication procedure make the audit framework adaptable to other rewriters and corpora.
+</details>
+
+---
+
 ## 🎓 Doctoral Dissertation
 
 ### 🔗 Evaluation Framework of Retrieval-Augmented Generation
@@ -99,19 +111,3 @@ Bulgarian title: *Рамка за оценка на съдържание, ген
 
 - [Full text (PDF, English)](https://iict.bas.bg/konkursi/2026/MDimitrova/02-disertatsia-za-doktor-EN.pdf)
 - [Defense notice, abstract and reviews (IICT-BAS)](https://iict.bas.bg/ZRASRB-n-stepeni.html)
-
----
-
-## 📝 Upcoming
-
-### 🔜 Model-Dependent Similarity Thresholds in Retrieval-Augmented Generation  
-*SPRINGER, Book Chapter 12*  
-
-
-<details>
-<summary><strong>Abstract (preview)</strong></summary>
-
-The study investigates the impact of similarity threshold tuning on Retrieval-Augmented Generation (RAG) system performance across four open-source language models. Mistral 7B, Llama 3.1 8B, Granite 3.2 8B, and DeepSeek 8B were evaluated using 369 question-answer pairs from the agricultural domain. Similarity thresholds from 0.50 to 0.95 were systematically tested to identify model-specific optimal configurations. An enhanced Composite Performance Score (CPS) was employed, integrating eleven evaluation metrics spanning lexical overlap (METEOR, ROUGE-2.f, ROUGE-L.f), semantic similarity (BERTScore.f1, B-RT.average), fluency and accuracy (F1 score, B-RT.fluency), and language modeling (Laplace Perplexity, Lidstone Perplexity) dimensions into a unified, weighted scoring system. The framework was extended with a Threshold-Aware Composite Performance Score (T-CPS) that penalizes output variability to identify stable, high-performing configurations. Results revealed distinct model sensitivity patterns. Mistral 7B achieved statistical significance at six thresholds with peak improvement of 4.58%. Granite 3.2 8B demonstrated consistent performance across seven consecutive thresholds. Llama 3.1 8B showed selective response at three high thresholds. DeepSeek 8B exhibited limited sensitivity with significance at only two thresholds. Model-specific threshold calibration yielded performance improvements ranging from 1.01% to 4.58% without requiring architectural modifications or additional computational resources. These findings demonstrate that model-specific threshold calibration represents a practical enhancement strategy that can deliver measurable performance improvements without requiring architectural modifications or additional computational resources.
-
-
-
