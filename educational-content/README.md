@@ -87,8 +87,10 @@ Developed for SoftUni's QA Automation course.
 A step-by-step lab on structuring Selenium tests with the Page Object Model in C#: base page, page classes, and test classes.
 Developed for SoftUni's QA Automation course.
 
+> **Note:** The lab refers to the SoftUni sample applications (Sum Numbers, Student Registry). They are SoftUni property, were not developed by me, and are therefore not included in this repository.
+
 📎 [Download the PDF](https://github.com/M33rschaum/technical-writing-portfolio/raw/main/educational-content/Selenium-POM-Lab.pdf)
 
 ---
 
-*Materials marked "Developed for SoftUni" are © SoftUni and shown here for portfolio purposes only, not for commercial use.*
+*The course materials in this folder were developed by me for SoftUni. They are © SoftUni and shown here for portfolio purposes only, not for commercial use.*
